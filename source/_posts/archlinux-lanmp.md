@@ -7,7 +7,8 @@ tags:
   - MySQL
   - PHP
   - ArchLinux
-categories: Linux
+categories:
+  - Note
 ---
 
 ## 前言

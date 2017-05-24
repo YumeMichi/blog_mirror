@@ -4,7 +4,7 @@
 
 # Site
 title: YumeMichi's Blog
-subtitle:
+subtitleo:
 description:
 author: YumeMichi
 language: zh-CN
@@ -44,7 +44,7 @@ highlight:
   tab_replace: 
 
 # Category & Tag
-default_category: 日记
+default_category: Diary
 category_map:
 tag_map:
 

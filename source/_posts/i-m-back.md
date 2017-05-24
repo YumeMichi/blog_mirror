@@ -7,4 +7,4 @@ categories:
   - Diary
 ---
 
-搬砖的日子真辛苦![](/images/qq1.gif)
+搬砖的日子真辛苦！![](/images/qq1.gif)
