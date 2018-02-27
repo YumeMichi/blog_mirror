@@ -134,7 +134,7 @@ systemctl enable iptables.service
 
 ## 客户端使用
 客户端其实跟服务端差不多是一样的，也是安装 Shadowsocks-libev 和 simple-obfs，不同的只是服务端用的是 `ss-server` 而客户端用的是 `ss-local`，所以服务文件只需要改一下命令的名字，配置文件如下：
-```
+```json
 {
         "server":"IP",
         "server_port":8388,
